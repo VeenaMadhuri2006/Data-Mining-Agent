@@ -1,0 +1,179 @@
+Year ,State,Total_Seats,Male_Candidate,Female_Candidate,Male_Winner,Female_Winner
+2004,Andhra Pradesh,42,258,21,39,3
+2004,ARUNACHAL PRADESH,2,13,0,2,0
+2004,Assam,14,110,6,14,0
+2004,Bihar,40,448,14,37,3
+2004,Goa,2,15,1,2,0
+2004,Gujarat,26,151,11,25,1
+2004,Haryana,10,152,8,9,1
+2004,Himachal Pradesh,4,21,2,3,1
+2004,Jammu and Kashmir,6,79,4,5,1
+2004,Karnataka,28,162,10,26,2
+2004,Kerala,20,162,15,18,2
+2004,Madhya Pradesh,29,264,30,27,2
+2004,Maharashtra ,48,383,29,43,5
+2004,Manipur,2,11,1,2,0
+2004,Meghalaya,2,5,0,2,0
+2004,Mizoram,1,3,0,1,0
+2004,Nagaland,1,5,0,1,0
+2004,Orissa,21,91,9,19,2
+2004,Punjab,13,132,10,11,2
+2004,Rajasthan,25,168,17,23,2
+2004,Sikkim,1,4,0,1,0
+2004,Tamil Nadu,39,548,23,35,4
+2004,Tripura,2,12,0,2,0
+2004,Uttar Pradesh,80,1077,61,73,7
+2004,West Bengal,42,321,34,38,4
+2004,Chattisgarh,11,90,12,10,1
+2004,Jharkhand,14,169,13,13,1
+2004,Uttranchal,5,49,5,5,0
+2004,Andaman and Nicobar Islands,1,11,1,1,0
+2004,Chandigarh,1,16,1,1,0
+2004,Dadar and Nagar Haveli,1,9,1,1,0
+2004,Daman and Diu,1,3,0,1,0
+2004,National Capital Territory,7,114,15,6,1
+2004,Lakshadweep,1,4,0,1,0
+2004,Pondicherry,1,20,1,1,0
+2009,Andhra Pradesh,42,530,39,37,5
+2009,ARUNACHAL PRADESH,2,8,0,2,0
+2009,Assam,14,147,11,12,2
+2009,Bihar,40,626,46,36,4
+2009,Goa,2,16,2,2,0
+2009,Gujarat,26,333,26,22,4
+2009,Haryana,10,196,14,8,2
+2009,Himachal Pradesh,4,30,1,4,0
+2009,Jammu and Kashmir,6,75,6,6,0
+2009,Karnataka,28,408,19,27,1
+2009,Kerala,20,202,15,20,0
+2009,Madhya Pradesh,29,400,29,23,6
+2009,Maharashtra ,48,764,55,45,3
+2009,Manipur,2,13,3,2,0
+2009,Meghalaya,2,8,3,1,1
+2009,Mizoram,1,4,0,1,0
+2009,Nagaland,1,3,0,1,0
+2009,Orissa,21,148,9,21,0
+2009,Punjab,13,205,13,9,4
+2009,Rajasthan,25,315,31,22,3
+2009,Sikkim,1,7,0,1,0
+2009,Tamil Nadu,39,775,48,38,1
+2009,Tripura,2,18,1,2,0
+2009,Uttar Pradesh,80,1268,100,68,12
+2009,West Bengal,42,339,29,35,7
+2009,Chattisgarh,11,163,15,9,2
+2009,Jharkhand,14,235,14,14,0
+2009,Uttranchal,5,69,7,5,0
+2009,Andaman and Nicobar Islands,1,10,1,1,0
+2009,Chandigarh,1,13,1,1,0
+2009,Dadar and Nagar Haveli,1,5,0,1,0
+2009,Daman and Diu,1,7,0,1,0
+2009,National Capital Territory,7,142,18,6,1
+2009,Lakshadweep,1,4,0,1,0
+2009,Pondicherry,1,28,0,1,0
+2014,Andhra Pradesh,42,555,43,39,3
+2014,ARUNACHAL PRADESH,2,11,0,2,0
+2014,Assam,14,146,16,12,2
+2014,Bihar,40,560,47,37,3
+2014,Goa,2,17,2,2,0
+2014,Gujarat,26,318,16,22,4
+2014,Haryana,10,219,11,10,0
+2014,Himachal Pradesh,4,33,5,4,0
+2014,Jammu and Kashmir,6,74,3,5,1
+2014,Karnataka,28,413,20,27,1
+2014,Kerala,20,242,27,19,1
+2014,Madhya Pradesh,29,341,37,24,5
+2014,Maharashtra ,48,827,69,43,5
+2014,Manipur,2,16,2,2,0
+2014,Meghalaya,2,9,1,2,0
+2014,Mizoram,1,3,0,1,0
+2014,Nagaland,1,3,0,1,0
+2014,Orissa,21,139,12,19,2
+2014,Punjab,13,233,20,12,1
+2014,Rajasthan,25,258,20,24,1
+2014,Sikkim,1,6,0,1,0
+2014,Tamil Nadu,39,789,55,35,4
+2014,Tripura,2,22,3,2,0
+2014,Uttar Pradesh,80,1159,126,67,13
+2014,West Bengal,42,421,51,30,12
+2014,Chattisgarh,11,190,21,10,1
+2014,Jharkhand,14,222,18,14,0
+2014,Uttranchal,5,67,7,4,1
+2014,Andaman and Nicobar Islands,1,13,2,1,0
+2014,Chandigarh,1,12,5,0,1
+2014,Dadar and Nagar Haveli,1,10,1,1,0
+2014,Daman and Diu,1,4,0,1,0
+2014,National Capital Territory,7,137,13,6,1
+2014,Lakshadweep,1,6,0,1,0
+2014,Pondicherry,1,27,3,1,0
+2019,Andhra Pradesh,25,292,27,21,4
+2019,ARUNACHAL PRADESH,2,11,1,2,0
+2019,Assam,14,131,14,13,1
+2019,Bihar,40,570,56,37,3
+2019,Goa,2,10,2,2,0
+2019,Gujarat,26,342,28,20,6
+2019,Haryana,10,212,11,9,1
+2019,Himachal Pradesh,4,44,1,4,0
+2019,Jammu and Kashmir,6,76,3,6,0
+2019,Karnataka,28,451,27,26,2
+2019,Kerala,20,202,24,19,1
+2019,Madhya Pradesh,29,398,40,25,4
+2019,Maharashtra ,48,788,79,40,8
+2019,Manipur,2,19,0,2,0
+2019,Meghalaya,2,8,1,1,1
+2019,Mizoram,1,5,1,1,0
+2019,Nagaland,1,4,0,1,0
+2019,Orissa,21,149,25,14,7
+2019,Punjab,13,253,25,11,2
+2019,Rajasthan,25,226,23,22,3
+2019,Sikkim,1,10,1,1,0
+2019,Tamil Nadu,39,782,67,36,3
+2019,Tripura,2,20,3,1,1
+2019,Uttar Pradesh,80,870,106,69,11
+2019,West Bengal,42,412,54,31,11
+2019,Chattisgarh,11,143,23,8,3
+2019,Jharkhand,14,204,25,12,2
+2019,Uttranchal,5,47,5,4,1
+2019,Telengana,17,418,25,16,1
+2019,Andaman and Nicobar Islands,1,14,1,1,0
+2019,Chandigarh,1,27,9,0,1
+2019,Dadar and Nagar Haveli,1,10,1,1,0
+2019,Daman and Diu,1,4,0,1,0
+2019,National Capital Territory,7,148,16,6,1
+2019,Lakshadweep,1,6,0,1,0
+2019,Pondicherry,1,16,2,1,0
+2024,Andhra Pradesh,25,416,38,22,3
+2024,ARUNACHAL PRADESH,2,13,1,2,0
+2024,Assam,14,131,12,13,1
+2024,Bihar,40,458,39,35,5
+2024,Goa,2,13,3,2,0
+2024,Gujarat,26,246,19,22,4
+2024,Haryana,10,207,16,9,1
+2024,Himachal Pradesh,4,34,3,3,1
+2024,Jammu and Kashmir,5,97,7,5,0
+2024,Karnataka,28,432,42,25,3
+2024,Kerala,20,169,25,20,0
+2024,Madhya Pradesh,29,342,26,23,6
+2024,Maharashtra ,48,1009,111,41,7
+2024,Manipur,2,10,0,2,0
+2024,Meghalaya,2,8,2,2,0
+2024,Mizoram,1,5,1,1,0
+2024,Nagaland,1,3,0,1,0
+2024,Orissa,21,174,33,17,4
+2024,Punjab,13,302,26,12,1
+2024,Rajasthan,25,247,19,22,3
+2024,Sikkim,1,13,1,1,0
+2024,Tamil Nadu,39,873,77,34,5
+2024,Tripura,2,16,2,1,1
+2024,Uttar Pradesh,80,771,80,73,7
+2024,West Bengal,42,434,72,31,11
+2024,Chattisgarh,11,191,29,8,3
+2024,Jharkhand,14,212,31,12,2
+2024,Uttranchal,5,51,4,4,1
+2024,Telengana,17,475,50,15,2
+2024,Andaman and Nicobar Islands,1,10,2,1,0
+2024,Chandigarh,1,17,2,1,0
+2024,Dadar and Nagar Haveli,1,7,0,1,0
+2024,Daman and Diu,1,4,1,0,1
+2024,National Capital Territory,7,137,23,5,2
+2024,Lakshadweep,1,4,0,1,0
+2024,Pondicherry,1,23,3,1,0
+2024,Ladak,1,3,0,1,0
